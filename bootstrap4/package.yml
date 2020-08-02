@@ -1,0 +1,17 @@
+package: bootstrap4
+version: '1.0'
+author: Benjamin Hacker
+supportpage: https://github.com/BenJ1337
+
+page:
+    title: 'translate:title'
+    icon: rex-icon fa-edit
+    perm: admin
+    subpages:
+        doc:
+            title: 'translate:main'
+
+requires:
+    redaxo: '^5.0'
+    php:
+        version: '^7.1'
