@@ -1,0 +1,11 @@
+custommodul_titel=Custom Modules
+
+cm_bootstrap_grid_large=Large (≥992px/ Laptop)
+cm_bootstrap_grid_medium=Medium (≥768px/ Tablet)
+cm_bootstrap_grid_small=Small (≥576px/ Tablet)
+cm_bootstrap_grid_extra_small=Extra small (<576px/ Smartphone)
+
+cm_module_platzhalter_hoehe=Höhe
+
+cm_slice_settings=Einstellungen
+cm_slice_content=Inhalt

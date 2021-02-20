@@ -1,0 +1,15 @@
+package: custommodules
+version: '1.0'
+author: Benjamin Hacker
+supportpage: benjamin-hacker.de
+docspage: benjamin-hacker.de
+
+page:
+  title: 'translate:custommodul_titel'
+  icon: rex-icon fa-link
+  perm: admin
+
+requires:
+  php:
+    version: '>=7.0'
+  redaxo: '>=5.0.0'
